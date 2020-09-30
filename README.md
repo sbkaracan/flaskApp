@@ -34,4 +34,4 @@
 
 
 
-[Click here to see the Heroku app](https://model-deployment-app.herokuapp.com)
+[Click here to see the Heroku app](https://model-deployment-app.herokuapp.com){:target="_blank"}
