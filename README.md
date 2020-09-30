@@ -13,7 +13,7 @@
 * Upload your files on a Github repo. (The files above)
 * Create an account on heroku.com
 * From the dashboard click on "Create New App"
-![Test Image 1](https://hizliresim.com/9DmMzs)
+![Test Image 1](https://i.hizliresim.com/9DmMzs.png)
 * Find an app name and select a region.
 * Chose the deployment method as Github
 * You need to connect your github account. If you have connected, write your repo's name and click connect.
