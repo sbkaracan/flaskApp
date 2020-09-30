@@ -32,5 +32,4 @@
 **8. After a while you can see a "view" button. That means your site is ready to work!**
 ![Test Image 2](https://i.hizliresim.com/Wm2u8O.png)
 
-
-<a href="https://model-deployment-app.herokuapp.com" target="_blank">Click here to see the Heroku app</a>
+[Click here to see the Heroku app](https://model-deployment-app.herokuapp.com)
