@@ -1,4 +1,4 @@
-# Deploying Machine Learning Models with Flask
+# Deploying Machine Learning Models using Flask
 
 ## Files:
 * Data: There is a csv file in it.
