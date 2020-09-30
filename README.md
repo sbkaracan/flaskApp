@@ -33,5 +33,4 @@
 ![Test Image 2](https://i.hizliresim.com/Wm2u8O.png)
 
 
-
-[Click here to see the Heroku app](https://model-deployment-app.herokuapp.com){:target="_blank"}
+<a href="https://model-deployment-app.herokuapp.com" target="_blank">Click here to see the Heroku app</a>
