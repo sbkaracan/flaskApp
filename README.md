@@ -9,7 +9,7 @@
 * regression_model.pkl: This is the pickle module which is created by running model.py.
 * requirements.txt: Determination of the version of different modules. If we don't have this file, we might have some issues because of the version differences.
 
-## Heroku Part
+## Heroku Deployment Part
 **1. Upload your files on a Github repo. (The files above)**
 
 **2. Create an account on heroku.com**
